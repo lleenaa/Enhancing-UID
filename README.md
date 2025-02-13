@@ -22,4 +22,4 @@ Redesigned the AliExpress website interface to improve user experience, simplify
 - A more intuitive and efficient shopping experience.
 
 ## How to View
-- **Figma Web Prototype:** [View Here](#) *(https://www.figma.com/design/NwgH0px0jKeciB3Is0WULD/Enhanced-AliExpress-UI-Design?node-id=0-1&t=yZTcXO2TYlFTsthV-1)*
+- [Figma Web Prototype: View Here](https://www.figma.com/design/NwgH0px0jKeciB3Is0WULD/Enhanced-AliExpress-UI-Design?node-id=0-1&t=yZTcXO2TYlFTsthV-1)
